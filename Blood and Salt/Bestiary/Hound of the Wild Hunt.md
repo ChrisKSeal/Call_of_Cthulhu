@@ -23,8 +23,9 @@ Attacks per round: 1
 
 Spectral Bite (90/45/18): The victim of a hound of the wild hunt suffers no obvious damage, but its bite has a life-draining effect. Each successful attack deals 2D6 damage. If the damage exceeds the character's total hit points, they suffer a massive heart attack and expire without immediate first aid.
 
+Fighting: 90% (45/18), damage 2D6
 Dodge: 26/13/5
 
 Armour: 2-point hide; regenerates 4 hit points unless on 0 hit points. Mundane weapons have no effect on the Hound, though iron, enchanted and blessed weapons and spells do full damage.
 
-Sanity Loss: 1d3/1d10
+Sanity Loss: 1d3/1d10 Sanity points to see the Hound of the Wild Hunt
