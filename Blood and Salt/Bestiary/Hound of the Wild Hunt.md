@@ -18,6 +18,8 @@ Average Build: 2
 Average Magic Points: 24
 Move: 6
 
+Unnatural Stare: If an investigator is the target of the Hound then they can feel its gaze upon them as it approaches. This increases the sanity loss to 1d3/1d10.
+
 ## ATTACKS
 Attacks per round: 1
 
@@ -28,4 +30,4 @@ Dodge: 26/13/5
 
 Armour: 2-point hide; regenerates 4 hit points unless on 0 hit points. Mundane weapons have no effect on the Hound, though iron, enchanted and blessed weapons and spells do full damage.
 
-Sanity Loss: 1d3/1d10 Sanity points to see the Hound of the Wild Hunt
+Sanity Loss: 0/1d4 Sanity points to see the Hound of the Wild Hunt.
