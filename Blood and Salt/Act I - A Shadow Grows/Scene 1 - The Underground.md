@@ -2,9 +2,10 @@ A [[Hound of the Wild Hunt]] attacks 45 year old Solicitor Thomas Goffard in the
  
 The train guard "Roland Holman" is catatonic after seeing the creature and does not remember anything about it.
 
-### Clues
+## Clues
 
 Thomas is carrying a briefcase that contains:
 - A copy of the invitation to view the new exhibit [[British Museum Invite.pdf]]
 - A folder containing letters from the Chief Librarian of Wales [[Translations.webp]]
 - A copy of a legal note from Thomas Scoons [[LawyersNote.webp]]
+- An internal memorandum about Aldric Thornfield [[Memo.webp]]

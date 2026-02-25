@@ -5,4 +5,8 @@ Eagle eyed characters making a Spot Hidden roll will catch a glimpse of her note
 
 Gwen's research notes [[GwensResearchNotes.webp]] are hidden in a pile of papers, showing both her and Branwen's notes. There is also the torn remains of ritual notes [[Torn note.webp]], which Gwen has destroyed in disgust at their contents.
 
+In a hidden compartment of her desk drawers is a membership roster with the members of [[The Children of the Stag]] cult and their ranks. [[Aldric Thornfield]]'s name is underlined.
+
+There is also a receipt from Blackwall Storage Ltd. that is in the wastepaper bin
+
 Luck rolls or Gwen returns while they are investigating. Branwen throws spells in this case, eyes rolling back into her head and Celtic runes appearing all over her face. She casts Breath of the Deep on the nearest investigator, before turning and running out of the room as Gwen reclaims her body. In any case Gwen is notably absent from now until Act III, having fled to Ynys Mons.

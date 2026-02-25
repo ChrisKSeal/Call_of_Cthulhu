@@ -1,0 +1,1 @@
+[[Captain Rhys Morgan]], is starting to become more disillusioned with the [[The Children of the Stag|Children]] and is starting to regret his recent activities.
