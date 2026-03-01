@@ -1,5 +1,21 @@
 ![[ImgMorwenna.png]]
 
+Knows Song of Hastur as a spell - causes veins of moss and vegetation to rupture the flesh (pg 263)
+
+Cost: 1D4 magic points per round; 1D4 Sanity points per round
+Casting time: 3 rounds before it begins to take effect
+
+A hideous wailing ululation by the caster causes the skin and flesh of the chosen victim to bubble and fester into pestilent blobs.
+
+The target must be visible to the caster. Though everyone can hear the song, the spell affects only the person chosen as target. This spell will not work except at night and only if the star Aldebaran is visible. A roll equal to or under the caster’s POW must be made to sing the correct alien melody.
+
+Successfully cast, the spell causes the target 1D6 hit points damage per round the spell is active. After every two rounds, scarring reduces the victim’s APP by 3D10.
+
+After every four rounds, internal ruptures lower the victim’s CON by 3D10. When the victim’s CON reaches 0 or death occurs from hit point loss, the body swells up and bursts with a sickening—pop!—as steamy gore spills onto the floor.
+
+The song can be used defensively, to guard against another caster of this spell. Successful opposing castings neutralize each other.
+
+
 ##  Name & Appearance
 
 **Sister Morwenna Trelawny** appears skeletal, her graying blonde hair cropped short in a manner both monastic and militaristic. She wears a patchwork of her former Anglican habit beneath rough woolen robes adorned with Celtic knotwork. _Her left hand trembles constantly_—a remnant of shell-shock—and her pale blue eyes rarely blink, giving her an unsettling, thousand-yard stare.
