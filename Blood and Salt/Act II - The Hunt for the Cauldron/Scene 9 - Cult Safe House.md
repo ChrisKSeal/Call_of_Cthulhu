@@ -1,0 +1,2 @@
+[[Aldric Thornfield]] and his 8 [[Cultist|Cultists]] are preparing a Wicker man for the sacrifice. [[Dr Gwenyvar Cadwallon|Gwen]]is in the cult safe house and will attempt to flee if the characters arrive.
+![[Cultist Safe House.PNG]]
