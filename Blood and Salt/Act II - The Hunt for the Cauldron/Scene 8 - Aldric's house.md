@@ -1,0 +1,1 @@
+Aldric has headed north to strengthen the possession. In his home can be found his research notes.
